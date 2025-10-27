@@ -40,12 +40,12 @@ A proposta é destacar os destinos turísticos com harmonia visual, boas propor�
 ---
 
 ## 📁 Estrutura do Projeto  
-📦 locais-turisticos
-┣ 📂 assets
-┃ ┣ 📜 style.css
-┃ ┗ 📜 images/
-┣ 📜 index.html
-┣ 📜 README.md
+📦 locais-turisticos <br>
+┣ 📂 assets <br>
+┃ ┣ 📜 style.css <br>
+┃ ┗ 📜 images/ <br>
+┣ 📜 index.html <br>
+┣ 📜 README.md <br>
 
 ---
 
